@@ -8,7 +8,7 @@ rootdir2 = '/Users/scotti.5/Dropbox/Shared Lab Folder/FMRI_Experiments/ContLTM_I
 
 spmdir = 'ColorEncoder';
 spm_file = 'Color_Encoder_scripts_s';
-roi_file = [{'rLH_V4v_Ant'};{'rLH_V4v_F'}];
+roi_file = [{'rLH_V4v'};{'rRH_V4v'}];
 
 Conds = {'1','2','3','4','5','6','7','8','9'};
 MapNames = {'RedPink' 'RedOrange' 'Orange' 'Olive' 'Green' 'Teal' 'Blue' 'Purple' 'HotPink'};
